@@ -1,0 +1,44 @@
+body {
+  font-family: "Orelega One";
+  background: url("https://images.unsplash.com/photo-1516195700843-20a1d5e93d2d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80")
+    no-repeat center;
+  background-size: cover;
+  color: #f7f3e9;
+}
+#banner {
+  margin-left: auto;
+  margin-right: auto;
+}
+.coffee {
+  width: 300px;
+}
+h1 {
+  color: #ff8303;
+  font-size: 10vh;
+}
+h3 {
+  color: black;
+  text-align: center;
+}
+hr {
+  border-style: dotted none none none;
+  color: #ff8303;
+  width: 15%;
+  border-width: 10px;
+}
+li {
+  font-size: 20px;
+}
+p {
+  text-align: center;
+}
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
+table {
+  padding: 10px;
+}
+p {
+  font-size: 20px;
+}
